@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 int id = item.getItemId();
+                //drawer menu
                 switch(id)
                 {
                     case R.id.myProfile:
