@@ -8,16 +8,37 @@
     </item>
 
     <item
-        android:id="@+id/setting"
-        android:title="Settings"
-        android:icon="@drawable/ic_settings_black_24dp">
+        android:id="@+id/editProfile"
+        android:title="Edit Profile"
+        android:icon="@drawable/ic_edit_black_24dp">
 
     </item>
 
     <item
-        android:id="@+id/editProfile"
-        android:title="Edit Profile"
+        android:id="@+id/aboutus"
+        android:title="About Us"
         android:icon="@drawable/ic_edit_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/docapp"
+        android:title="Book Appoinment with Doctor"
+        android:icon="@drawable/ic_edit_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/booktest"
+        android:title="Book Medical Test"
+        android:icon="@drawable/ic_edit_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/setting"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_black_24dp">
 
     </item>
 
